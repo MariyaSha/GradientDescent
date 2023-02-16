@@ -10,9 +10,14 @@ This repository was created to accomodate my YouTube tutorial:
 https://youtu.be/jwStsp8JUPU
 <br>
 <br>
+<b>content: </b>
+
+- GradientDescent_starterCode: is a fun exercise where you can test your understanding of Gradient Descent.
+- GradientDescent_completeCode: in case you couldn't figure it out on your own.
+
 <b>author:</b> Mariya Sha
 <br>
 <br>
-<b> dependencies: </b>
+<b>dependencies: </b>
 
 - Numpy
